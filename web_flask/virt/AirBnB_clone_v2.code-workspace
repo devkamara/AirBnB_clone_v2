@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "AirBnB_clone_v2",
+			"path": "C:/Users/franc/Documents/GitHub/AirBnB_clone_v2"
+		},
+		{
+			"name": "web_flask",
+			"path": ".."
+		},
+		{
+			"name": "models",
+			"path": "../../models"
+		},
+		{
+			"name": "tests",
+			"path": "../../tests"
+		},
+		{
+			"name": "versions",
+			"path": "../../versions"
+		}
+	],
+	"settings": {}
+}
